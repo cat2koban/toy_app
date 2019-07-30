@@ -17,8 +17,7 @@ notifications:
   email: false
 deploy:
   provider: heroku
-  api_key:
-    secure: $secure_api_key
+  api_key: $api_key
   app: intense-citadel-48523
   on:
     repo: cat2koban/toy_app
