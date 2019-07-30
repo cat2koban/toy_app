@@ -1,5 +1,6 @@
 # toy_app
 [![Build Status](https://travis-ci.org/cat2koban/toy_app.svg?branch=master)](https://travis-ci.org/cat2koban/toy_app)
+
 This is the second application for the Ruby on Rails Tutorial.
 
 ## Environments
